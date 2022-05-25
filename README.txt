@@ -1,5 +1,5 @@
 Test Queries for Prolog files
-%Separate tests cases which have to be put into console separately
+%Tests cases which have to be put into console separately per program
 
 Length-Compare:
 
@@ -15,6 +15,7 @@ check_length([a,b], ListC),
 check_length([a,b,c], ListD),
 compare_length(ListC, ListD).
 
+-------------------------------------------------------------------------------------------------------
 
 Goldbach:
 %Will return L = [3,97] to user since 100 is a positive even interger
