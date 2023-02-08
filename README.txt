@@ -3,7 +3,7 @@ Overview: Goldbach theorum of two numbers and shows that every even and positive
           
 Website: (Editor and Compilers) https://swish.swi-prolog.org/
 
-Quick Rundown of what the programs will do where:
+Quick Rundown of what the programs do and some examples and their results:
 Test Queries for Prolog files
 %Tests cases which have to be put into console separately per program
 
