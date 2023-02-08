@@ -1,3 +1,9 @@
+Overview: Goldbach theorum of two numbers and shows that every even and positive number is the sum of two prime numbers.
+          Length-Compare: Takes lists and checks to see if the first is larger than the second.
+          
+Website: (Editor and Compilers) https://swish.swi-prolog.org/
+
+Quick Rundown of what the programs will do where:
 Test Queries for Prolog files
 %Tests cases which have to be put into console separately per program
 
